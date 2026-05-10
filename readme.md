@@ -33,14 +33,15 @@ python main.py [-h] -a APK [-p PORT] [-b BUDGET]
 <img src="net.everythingandroid.timer_test2.png" alt="transition example">
 
 ```bibtex
-@misc{demissie2025vlmfuzzvisionlanguagemodel,
-      title={VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps}, 
-      author={Biniam Fisseha Demissie and Yan Naing Tun and Lwin Khin Shar and Mariano Ceccato},
-      year={2025},
-      eprint={2504.11675},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE},
-      url={https://arxiv.org/abs/2504.11675}, 
+@article{demissie2026vlm,
+  title={VLM-Fuzz: Vision language model assisted recursive depth-first search exploration for effective GUI testing of android apps},
+  author={Demissie, Biniam Fisseha and Tun, Yan Naing and Shar, Lwin Khin and Ceccato, Mariano},
+  journal={Empirical Software Engineering},
+  volume={31},
+  number={3},
+  pages={76},
+  year={2026},
+  publisher={Springer}
 }
 ```
 
