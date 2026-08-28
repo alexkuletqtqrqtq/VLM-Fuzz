@@ -8,6 +8,11 @@ and usability. A cleaned version of the repository will be released soon.
 [![arXiv](https://img.shields.io/badge/arXiv-2504.11675-b31b1b.svg)](https://arxiv.org/abs/2504.11675) 
 ## VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps
 
+## Demo
+
+https://github.com/user-attachments/assets/de57638b-e240-45a4-a76e-15bbb8485ce2
+
+
 # How to run
 
 set env variable "OPENAI_API_KEY" with your OPENAI API KEY
